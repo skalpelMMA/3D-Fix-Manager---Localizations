@@ -4,36 +4,36 @@
 
 
     <!-- Display Profiles Window Bar -->
-    <system:String x:Key="Monitor">Monitor</system:String>
-    <system:String x:Key="Projector">Projector</system:String>
-    <system:String x:Key="TV">TV</system:String>
+    <system:String x:Key="Monitor">Монитор</system:String>
+    <system:String x:Key="Projector">Проектор</system:String>
+    <system:String x:Key="TV">ТВ</system:String>
 
     <!-- Misc -->
-    <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
-    <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
-    <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
-    <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-    <system:String x:Key="ChangeLanguage">Change Language</system:String>
-    <system:String x:Key="Close">Close</system:String>
-    <system:String x:Key="Show">Show</system:String>
-    <system:String x:Key="Enable3D">Enable 3D</system:String>
-    <system:String x:Key="Disable3D">Disable 3D</system:String>
-    <system:String x:Key="EnableDriverMod">Enable driver mod</system:String>
-    <system:String x:Key="DisableDriverMod">Disable driver mod</system:String>
-    <system:String x:Key="NoMatchFound">No Match found for</system:String>
+    <system:String x:Key="LoadingApplication">Загрузка приложения. Пожалуйста, подождите...</system:String>
+    <system:String x:Key="SwitchToCompactGui">Перейти на компактный интерфейс.</system:String>
+    <system:String x:Key="SwitchToNormalGui">Перейти на нормальный интерфейс.</system:String>
+    <system:String x:Key="MinimizeToTray">Свернуть окно в системный трей.</system:String>
+    <system:String x:Key="ChangeLanguage">Изменить язык</system:String>
+    <system:String x:Key="Close">Закрыть</system:String>
+    <system:String x:Key="Show">Показать</system:String>
+    <system:String x:Key="Enable3D">Включить 3D</system:String>
+    <system:String x:Key="Disable3D">Выключить 3D</system:String>
+    <system:String x:Key="EnableDriverMod">Включить driver mod</system:String>
+    <system:String x:Key="DisableDriverMod">Выкдючить driver mod</system:String>
+    <system:String x:Key="NoMatchFound">Не найдено совпадений для</system:String>
 
     <!-- Tab header title -->
-    <system:String x:Key="Installation">Installation</system:String>
+    <system:String x:Key="Installation">Инсталляция</system:String>
     <system:String x:Key="Play">Play</system:String>
-    <system:String x:Key="EditProfile">Edit Profile</system:String>
-    <system:String x:Key="NewProfile">New Profile</system:String>
-    <system:String x:Key="Hotkeys">Hotkeys</system:String>
+    <system:String x:Key="EditProfile">Изменить Профиль</system:String>
+    <system:String x:Key="NewProfile">Новый Профиль</system:String>
+    <system:String x:Key="Hotkeys">Горячие клавиши</system:String>
     <system:String x:Key="3dfix">3D Fix</system:String>
-    <system:String x:Key="Profile">Profile</system:String>
-    <system:String x:Key="Settings">Settings</system:String>
+    <system:String x:Key="Profile">Профиль</system:String>
+    <system:String x:Key="Settings">Настройки</system:String>
     <system:String x:Key="About">About</system:String>
-    <system:String x:Key="GeneralSettings">Application Settings</system:String>
-    <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
+    <system:String x:Key="GeneralSettings">Основные настройки</system:String>
+    <system:String x:Key="Nvidia3DSettings">Настройки Nvidia 3D</system:String>
     <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
 
     <!-- Game list on left column-->
