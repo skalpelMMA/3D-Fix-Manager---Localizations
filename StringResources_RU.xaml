@@ -4,55 +4,55 @@
 
 
     <!-- Display Profiles Window Bar -->
-    <system:String x:Key="Monitor">Monitor</system:String>
-    <system:String x:Key="Projector">Projector</system:String>
-    <system:String x:Key="TV">TV</system:String>
+    <system:String x:Key="Monitor">Монитор</system:String>
+    <system:String x:Key="Projector">Проектор</system:String>
+    <system:String x:Key="TV">ТВ</system:String>
 
     <!-- Misc -->
-    <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
-    <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
-    <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
-    <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-    <system:String x:Key="ChangeLanguage">Change Language</system:String>
-    <system:String x:Key="Close">Close</system:String>
-    <system:String x:Key="Show">Show</system:String>
-    <system:String x:Key="Enable3D">Enable 3D</system:String>
-    <system:String x:Key="Disable3D">Disable 3D</system:String>
-    <system:String x:Key="EnableDriverMod">Enable driver mod</system:String>
-    <system:String x:Key="DisableDriverMod">Disable driver mod</system:String>
-    <system:String x:Key="NoMatchFound">No Match found for</system:String>
+    <system:String x:Key="LoadingApplication">Загрузка приложения. Пожалуйста, подождите...</system:String>
+    <system:String x:Key="SwitchToCompactGui">Перейти к компактному размеру графического интерфейса.</system:String>
+    <system:String x:Key="SwitchToNormalGui">Перейти к нормальному размеру графического интерфейса.</system:String>
+    <system:String x:Key="MinimizeToTray">Свернуть окно в системный трей.</system:String>
+    <system:String x:Key="ChangeLanguage">Изменить язык</system:String>
+    <system:String x:Key="Close">Закрыть</system:String>
+    <system:String x:Key="Show">Показать</system:String>
+    <system:String x:Key="Enable3D">ВКЛ 3D</system:String>
+    <system:String x:Key="Disable3D">ВЫКЛ 3D</system:String>
+    <system:String x:Key="EnableDriverMod">ВКЛ драйвер мод</system:String>
+    <system:String x:Key="DisableDriverMod">ВЫКЛ драйвер мод </system:String>
+    <system:String x:Key="NoMatchFound">Не найдено совпадений для</system:String>
 
     <!-- Tab header title -->
-    <system:String x:Key="Installation">Installation</system:String>
-    <system:String x:Key="Play">Play</system:String>
-    <system:String x:Key="EditProfile">Edit Profile</system:String>
-    <system:String x:Key="NewProfile">New Profile</system:String>
-    <system:String x:Key="Hotkeys">Hotkeys</system:String>
+    <system:String x:Key="Installation">Установка</system:String>
+    <system:String x:Key="Play">Игра</system:String>
+    <system:String x:Key="EditProfile">Редактировать профиль</system:String>
+    <system:String x:Key="NewProfile">Новый профиль</system:String>
+    <system:String x:Key="Hotkeys">Горячие клавиши</system:String>
     <system:String x:Key="3dfix">3D Fix</system:String>
-    <system:String x:Key="Profile">Profile</system:String>
-    <system:String x:Key="Settings">Settings</system:String>
+    <system:String x:Key="Profile">Профиль</system:String>
+    <system:String x:Key="Settings">Настройки</system:String>
     <system:String x:Key="About">About</system:String>
-    <system:String x:Key="GeneralSettings">Application Settings</system:String>
-    <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
-    <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
+    <system:String x:Key="GeneralSettings">Основные настройки</system:String>
+    <system:String x:Key="Nvidia3DSettings">Настройки Nvidia 3D</system:String>
+    <system:String x:Key="DisplayProfiles">Профили отображения</system:String>
 
     <!-- Game list on left column-->
-    <system:String x:Key="All">All Games</system:String>
-    <system:String x:Key="Installed">Installed Games</system:String>
-    <system:String x:Key="AllFixTypes">All Fix Types</system:String>
+    <system:String x:Key="All">Все игры</system:String>
+    <system:String x:Key="Installed">Только установленные</system:String>
+    <system:String x:Key="AllFixTypes">Все типы исправлений</system:String>
     <system:String x:Key="_3dmigoto">3dmigoto (DX 11)</system:String>
     <system:String x:Key="Helixmod">Helixmod (DX 9)</system:String>
     <system:String x:Key="OpenGLwrapper">OpenGL Wrapper</system:String>
-    <system:String x:Key="NotFixed">Without 3D Fix</system:String>
-    <system:String x:Key="VerifiedFixes">Verified 3D Fixes</system:String>
-    <system:String x:Key="UnverifiedFixes">Unverified 3D Fixes</system:String>
-    <system:String x:Key="VrCompatible">VR compatible</system:String>
-    <system:String x:Key="New">New</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
-    <system:String x:Key="Edit">Edit</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
-    <system:String x:Key="Delete">Delete</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="NotFixed">Без 3D исправлений</system:String>
+    <system:String x:Key="VerifiedFixes">Проверенные 3D исправления</system:String>
+    <system:String x:Key="UnverifiedFixes">Непроверенные 3D исправления</system:String>
+    <system:String x:Key="VrCompatible">Поддержка VR</system:String>
+    <system:String x:Key="New">Новый</system:String>
+    <system:String x:Key="CreateProfileToolTip">Создать 3D профиль исправления</system:String>
+    <system:String x:Key="Edit">Изменить</system:String>
+    <system:String x:Key="EditProfileToolTip">Изменить 3D профиль исправления</system:String>
+    <system:String x:Key="Delete">Удалить</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Удалить 3D профиль исправления</system:String>
 
     <!-- Installation Tab -->
     <system:String x:Key="NoGamesInstalled">No compatible games installed.</system:String>
